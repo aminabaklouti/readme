@@ -15,7 +15,7 @@ year = {2018},
 ## The dataset
 The [dataset](https://pavis.iit.it/index.php/datasets/autism-spectrum-disorder-detection-dataset) contains trials performed by both autistic kids and control subjects. Main task is to perform this two-class classification.
 
-![alt text]([./aut.png](https://github.com/aminabaklouti/readme/blob/main/aut.PNG))
+![alt text]((https://github.com/aminabaklouti/readme/blob/main/aut.PNG))
 
 
 ## The code 
