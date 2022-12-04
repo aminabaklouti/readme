@@ -1,4 +1,4 @@
-# Autism Safety
+# Safe Autism
 
 ## Description
 The Main task is to perform both Autistic and Normal kids classes classification we used mp4 dataset videos as inputs into  the  Convolutional neural networks (CNN) Model
