@@ -13,21 +13,6 @@ The [dataset]([https://pavis.iit.it/index.php/datasets/autism-spectrum-disorder-
 ![alt text](nrml.PNG)
 
 
-## The code 
-This repo is based on [this public code](https://github.com/kracwarlock/action-recognition-visual-attention) implementing an [attention-based LSTM](https://arxiv.org/abs/1511.04119v3) and is meant to classify autistic kids from the kinematics of motion. It contains:
-- matlab scripts for estracting CNN features from the video frames (GoogleNet - Caffe) 
-- python scripts for the actual LSTM training (theano)
-
-### (Main) Dependencies
-* Python 2.7
-* [NumPy](http://www.numpy.org/)
-* [scikit learn](http://scikit-learn.org/stable/index.html)
-* [skimage](http://scikit-image.org/docs/dev/api/skimage.html)
-* [Theano](http://www.deeplearning.net/software/theano/)
-* [h5py](http://docs.h5py.org/en/latest/)
-* Matlab
-* [Caffe](https://github.com/BVLC/caffe)
-
 
 ## License
 This repository is released under the MIT LICENSE.
