@@ -1,25 +1,15 @@
-# Video Gesture Analysis for Autism Spectrum Disorder Detection
+# Autism Safety
 
-## Reference
-Code for the paper **Video Gesture Analysis for Autism Spectrum Disorder Detection**, Zunino et al, ICPR 2018 ([pdf](https://www.researchgate.net/publication/327751352_Video_Gesture_Analysis_for_Autism_Spectrum_Disorder_Detection), [proceedings](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8527858))
-
-```
-@inproceedings{2018_ICPR,
-author = {Andrea Zunino and Pietro Morerio and Andrea Cavallo and Caterina Ansuini and Jessica Podda and Francesca Battaglia and Edvige Veneselli and Cristina Becchio and Vittorio Murino},
-title = {Video Gesture Analysis for Autism Spectrum Disorder Detection},
-booktitle = {International Conference on Pattern Recognition (ICPR)},
-year = {2018},
-}
-```
+## Description
+The Main task is to perform both Autistic and Normal kids classes classification we used mp4 dataset videos as inputs into  the  Convolutional neural networks (CNN) Model
 
 ## The dataset
-The [dataset](https://pavis.iit.it/index.php/datasets/autism-spectrum-disorder-detection-dataset) contains trials performed by both autistic  and normal Kids.
-The Main task is to perform this two-class classification.
+The [dataset]([https://pavis.iit.it/index.php/datasets/autism-spectrum-disorder-detection-dataset](https://drive.google.com/drive/folders/1N-bNh1waxe3KTS5tPWTKNeDPlOXQ48FU?fbclid=IwAR1y9WJhDdMRE7ww1fHCluh2BvqD4DVpdH1NnhKpuT2JjgKDDKtEAna12wQ)) contains trials performed by both autistic  and normal Kids.
 
-#### exemple of autistic kids.
+#### Example of autistic kids.
 ![alt text](aut.PNG)
 
-#### exemple of normal kids.
+#### Example of normal kids.
 ![alt text](nrml.PNG)
 
 
