@@ -16,10 +16,10 @@ year = {2018},
 The [dataset](https://pavis.iit.it/index.php/datasets/autism-spectrum-disorder-detection-dataset) contains trials performed by both autistic  and normal Kids.
 The Main task is to perform this two-class classification.
 
-exemple of autistic kids.
+#### exemple of autistic kids.
 ![alt text](aut.PNG)
 
-exemple of normal kids.
+#### exemple of normal kids.
 ![alt text](nrml.PNG)
 
 
