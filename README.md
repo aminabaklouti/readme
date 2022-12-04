@@ -2,7 +2,6 @@
 
 ## Description
 The Main task is to perform both Autistic and Normal kids classes classification we used mp4 dataset videos as inputs into  the  Convolutional neural networks (CNN) Model.
-
 Using this project, we are able to identify when a child is autistic from an early age. 
 
 ## The dataset
